@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "animalbone",
+    "name": "AnimalBone",
+    "description": "A mod to drop animals' bones from them.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "citringo.net",
+    "updateUrl": "",
+    "authorList": [
+      "Xeltica"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
