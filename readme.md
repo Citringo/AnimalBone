@@ -1,6 +1,6 @@
 # AnimalBone
 
-AnimalBone is a mod to get bones when we killed animals.
+動物が骨を落とすようになるmodです。 `EntityAnimal` を継承したMobが死ぬと、確率で0個から2個の骨を落とします。
 
 ## LICENSE
 
